@@ -1,0 +1,10 @@
+.btn-blue{
+  background-color: white ;
+  color: darkblue;
+  padding: 11px 19px;
+  margin: 80px;
+}
+.btn-blue:hover{
+  background-color: blue;
+  color: darkblue;
+}
